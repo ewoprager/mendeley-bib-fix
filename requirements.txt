@@ -1,0 +1,5 @@
+bibtexparser==2.0.0b7
+pathlib==1.0.1
+pylatexenc==3.0a30
+pyparsing==3.2.0
+rer==1.1.2
